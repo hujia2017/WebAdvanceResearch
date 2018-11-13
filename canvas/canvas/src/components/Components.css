@@ -1,0 +1,19 @@
+
+.framecanvas{
+    display: block;
+    float: left;
+    position:absolute;    
+}
+
+.vscalecanvas{
+    float: left;
+    position:absolute; 
+    /* display: inline; */
+    border: 1px solid black;
+}
+
+#ChartRoot{
+    width: 100%;
+    height: 100%;
+    border: 1px solid black;
+}
